@@ -129,10 +129,10 @@ We can assign a new value to a variable at any time by using the assignment oper
 
 ```js
 var day = 'Monday'
-cosole.log('Today is ' + day)
+console.log('Today is ' + day)
 day = 'Tuesday'
 console.log('Tomorrow will be ' + day)
-```
+`
 
 We may want to use the current value when modifying a variable. For example,we may want to add some numeric value to an existing number. To do this, we can use the variable's name to the right hand side of the assignment operator:
 
